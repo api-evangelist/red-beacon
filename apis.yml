@@ -60,6 +60,11 @@ x-enrichment:
   artifacts_added: 1
   pass: local-v1
 common:
+- type: ParentCompany
+  url: https://apis.io/providers/home-depot/
+  name: The Home Depot
+  x-relationship: acquired
+  x-evidence: "The company was an early venture-backed startup (with Mayfield among its investors) and was acquired by The Home Depot in 2012."
 - type: DomainSecurity
   url: security/red-beacon-domain-security.yml
 - type: Website
