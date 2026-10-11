@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "red-beacon",
+    "captured_at": "2026-10-11T192118",
+    "source_url": "https://www.redbeacon.com",
+    "source_type": "Website",
+    "file": "red-beacon-2026-10-11T192118.png",
+    "bytes": 75107,
+    "capture": "playwright-local"
+  }
+]
